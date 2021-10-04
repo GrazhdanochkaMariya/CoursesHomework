@@ -1,3 +1,5 @@
+"""Напишите программу, которая меняет местами столбцы в матрице."""
+
 n, m = int(input()), int(input())
 matrix = [input().split() for _ in range(n)]
 
